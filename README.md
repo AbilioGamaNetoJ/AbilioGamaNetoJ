@@ -1,7 +1,7 @@
 ## 👋 Prazer! Eu me chamo Abílio Gama!
 - 🤖 Professor Tutor de Programação e Robótica
-- 💻 Desenvolvedor Front-End
-- 📖 Cursando Análise e Desenvolvimento de Sistemas no UniSenai
+- 💻 Desenvolvedor Full Stack
+- 📖 Graduado em Análise e Desenvolvimento de Sistemas no UniSenai
 
 
 ## 🛠️&nbsp;Tech Stack
