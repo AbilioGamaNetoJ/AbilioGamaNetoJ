@@ -2,7 +2,7 @@
 
 Desenvolvedor **Full Stack** em Florianópolis, SC. Graduado em Análise e Desenvolvimento de Sistemas pelo UniSenai.
 
-Planejo, desenvolvo e entrego sistemas web ponta a ponta — de sistemas de delivery e dashboards administrativos a lojas, landing pages e automações com IA. Meu foco é entregar software que um negócio realmente usa: autenticação, apis, banco de dados,responsividade, ui/ux testes e deploy.
+Desenvolvo e entrego **landing pages com SEO local** e **sistemas web** para PMEs — presença digital que o negócio usa de verdade: catálogo, conversão por WhatsApp, ranqueamento local e, quando o caso pede, autenticação, pagamentos e painel administrativo.
 
 - 📍 Florianópolis, Santa Catarina
 - 🌐 [Portfólio](https://abiliogama-portfolio.netlify.app/)
@@ -10,16 +10,52 @@ Planejo, desenvolvo e entrego sistemas web ponta a ponta — de sistemas de deli
 
 ---
 
-## O que eu desenvolvo
+## O que eu construo
 
+- Landing pages e sites institucionais com **SEO local** (JSON-LD, sitemap, páginas de serviço)
+- Catálogos digitais e conversão via **WhatsApp**
 - Aplicações full stack com **Next.js**, **React** e **TypeScript**
-- Backends, automações e orquestração de agentes em **Python** e **Node.js**
-- Painéis com **RBAC**, PostgreSQL (Neon/Supabase) e CI/CD
-- Sites e sistemas comerciais para negócios locais (gastronomia, serviços e e-commerce/loja de catálogos)
+- Painéis com **RBAC**, PostgreSQL e CI/CD
 
 ---
 
-## Projetos em destaque
+## Projetos entregues a clientes
+
+Sites em produção para negócios reais em Florianópolis. Os repositórios são privados.
+
+### [ArtAço Sustentável](https://www.artacosustentavel.com.br/) — catálogo digital + conversão
+Site institucional e catálogo da marca de acessórios em aço inox. O cliente sai do marketplace e vende pelo próprio canal: catálogo gerenciado em CMS, carrinho persistente e pedido fechado no WhatsApp — sem gateway de pagamento.
+
+`Next.js 15` `React 19` `TypeScript` `Tailwind CSS` `Directus` `Zustand`
+
+[Ver site](https://www.artacosustentavel.com.br/)
+
+### [Nando Studio Barbearia](https://www.barbearianandostudio.com/) — SEO local e GEO
+One-page da barbearia no Rio Vermelho (Norte da Ilha). Serviços, equipe e localização, com agendamento pelo app e WhatsApp. Foi projetada para busca local e para IAs de busca (JSON-LD `HairSalon`, `areaServed`, sitemap e conteúdo específico do negócio).
+
+`Next.js` `React` `TypeScript` `Tailwind CSS` `shadcn/ui` `Framer Motion`
+
+[Ver site](https://www.barbearianandostudio.com/)
+
+### [Sabor Ilhéu](https://www.saborilheurestaurante.com.br/) — landing de restaurante
+Presença digital própria do restaurante de frutos do mar na Barra da Lagoa — o negócio dependia só de redes sociais e do Google Meu Negócio. Cardápio por categorias, galeria, avaliações reais, mapa e CTA de reserva no WhatsApp, com SEO local e SSG.
+
+`Next.js 16` `React 19` `TypeScript` `Tailwind CSS`
+
+[Ver site](https://www.saborilheurestaurante.com.br/)
+
+### [PatriciaH Back — Centro Estético](https://www.centroesteticopatriciaback.com.br/) — site + páginas de serviço
+Site institucional do centro estético e terapêutico no Rio Vermelho. Home one-page e **17 páginas estáticas de serviço**, cada uma com SEO próprio (JSON-LD `Service`, Open Graph). O único objetivo: apresentar a profissional e converter o agendamento no WhatsApp.
+
+`Next.js 16` `React 19` `TypeScript` `Tailwind CSS` `shadcn/ui`
+
+[Ver site](https://www.centroesteticopatriciaback.com.br/)
+
+---
+
+## Projetos de estudo
+
+Arquitetura completa para portfólio técnico — não são entregas de cliente.
 
 ### [Rei do Picadão](https://github.com/AbilioGamaNetoJ/restaurante-rei-picadao) — sistema de delivery
 Plataforma full stack com storefront, checkout seguro, painel administrativo com RBAC, PWA e pagamentos (PIX/cartão).
@@ -34,27 +70,6 @@ Gestão empresarial com funcionários, estoque, vendas, finanças e metas — au
 `React 19` `Vite` `Tailwind` `Supabase` `PostgreSQL` `Vitest`
 
 [Repositório](https://github.com/AbilioGamaNetoJ/Dashboard-Administrativo) · [Demo](https://dashboard-administrativo-six.vercel.app)
-
-### [Orquestrador de CLIs](https://github.com/AbilioGamaNetoJ/Orquestrador-de-clis)
-Orquestra Claude Code, OpenCode e Codex em paralelo para gerar frontend, backend e testes de uma aplicação.
-
-`Python` `LangGraph` `Multi-agent`
-
-[Repositório](https://github.com/AbilioGamaNetoJ/Orquestrador-de-clis)
-
-### [Documentação Padrão](https://github.com/AbilioGamaNetoJ/documentacao-padrao)
-Kit reutilizável de agentes, skills, workflows e templates para padronizar projetos de software com IA.
-
-`Python` `AI agents` `Docs-as-code`
-
-[Repositório](https://github.com/AbilioGamaNetoJ/documentacao-padrao)
-
-### [Chatbot SENAI](https://github.com/AbilioGamaNetoJ/chatbot-senai)
-Projeto aplicado no UniSenai: gestão de colaboradores com chatbot para RH, benefícios e ponto eletrônico.
-
-`React` `TypeScript` `Node.js` `Prisma` `PostgreSQL` `Docker`
-
-[Repositório](https://github.com/AbilioGamaNetoJ/chatbot-senai)
 
 ---
 
