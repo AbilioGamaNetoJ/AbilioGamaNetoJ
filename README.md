@@ -2,7 +2,7 @@
 
 Desenvolvedor **Full Stack** em Florianópolis, SC. Graduado em Análise e Desenvolvimento de Sistemas pelo UniSenai.
 
-Crio produtos web ponta a ponta — de sistemas de delivery e dashboards administrativos a lojas, landing pages e automações com IA. Meu foco é entregar software que um negócio realmente usa: autenticação, pagamentos, banco de dados, testes e deploy.
+Planejo, desenvolvo e entrego sistemas web ponta a ponta — de sistemas de delivery e dashboards administrativos a lojas, landing pages e automações com IA. Meu foco é entregar software que um negócio realmente usa: autenticação, apis, banco de dados,responsividade, ui/ux testes e deploy.
 
 - 📍 Florianópolis, Santa Catarina
 - 🌐 [Portfólio](https://abiliogama-portfolio.netlify.app/)
@@ -10,12 +10,12 @@ Crio produtos web ponta a ponta — de sistemas de delivery e dashboards adminis
 
 ---
 
-## O que eu construo
+## O que eu desenvolvo
 
 - Aplicações full stack com **Next.js**, **React** e **TypeScript**
 - Backends, automações e orquestração de agentes em **Python** e **Node.js**
 - Painéis com **RBAC**, PostgreSQL (Neon/Supabase) e CI/CD
-- Sites e sistemas comerciais para negócios locais (gastronomia, serviços e e-commerce)
+- Sites e sistemas comerciais para negócios locais (gastronomia, serviços e e-commerce/loja de catálogos)
 
 ---
 
