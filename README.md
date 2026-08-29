@@ -113,5 +113,3 @@ Ferramenta interna para prospecção de empresas por região e segmento, com ide
 - **Backend e dados:** Node.js, Python, FastAPI, PostgreSQL, Supabase, Directus, Drizzle ORM e APIs REST
 - **Qualidade e entrega:** Vitest, Playwright, Git, CI/CD, Docker, Vercel, Cloudflare Workers e Bun
 - **Arquitetura aplicada:** autenticação, RBAC, RLS, PWAs, SEO técnico, JSON-LD e integrações de pagamento
-
----
