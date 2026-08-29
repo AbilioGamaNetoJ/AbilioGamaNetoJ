@@ -97,14 +97,6 @@ Sistema de gestão de funcionários, estoque, vendas, finanças e metas. Impleme
 
 🚀 [Ver demonstração](https://dashboard-administrativo-six.vercel.app)
 
-### [Prospector de Negócios Locais](https://github.com/AbilioGamaNetoJ/leads-webscrapping-maps)
-
-Ferramenta interna para prospecção de empresas por região e segmento, com identificação de negócios sem site, autenticação por perfis e exportação de resultados em XLSX. Integra Google Places e Geocoding APIs.
-
-`Python` `FastAPI` `SQLAlchemy` `PostgreSQL` `Neon` `Clerk` `PWA`
-
-💻 [Ver repositório](https://github.com/AbilioGamaNetoJ/leads-webscrapping-maps)
-
 ---
 
 ## Tecnologias e práticas
