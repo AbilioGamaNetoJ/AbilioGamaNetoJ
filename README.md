@@ -8,7 +8,7 @@ Foco em Next.js, React, TypeScript, Node.js, PostgreSQL e Astro, com experiênci
 
 💼 [Portfólio profissional para vagas e equipes](https://www.portfolio.abiliogama.dev/pt/)
 
-🔗 [LinkedIn](https://www.linkedin.com/in/abilio-gama-neto-junior-467965286)
+🔗 [LinkedIn](https://www.linkedin.com/in/abilio-gama/)
 
 ✉️ [E-mail](mailto:abiliogamadev@gmail.com)
 
@@ -45,7 +45,7 @@ Site da barbearia no Rio Vermelho, com serviços, equipe, localização e caminh
 
 `Next.js` `React` `TypeScript` `Tailwind CSS` `shadcn/ui` `Framer Motion`
 
-🌐 [Visitar projeto](https://www.barbearianandostudio.com/)
+🌐 [Visitar projeto](https://www.barbearianandostudio.com.br/)
 
 ### Sabor Ilhéu — site para restaurante
 
@@ -115,17 +115,3 @@ Ferramenta interna para prospecção de empresas por região e segmento, com ide
 - **Arquitetura aplicada:** autenticação, RBAC, RLS, PWAs, SEO técnico, JSON-LD e integrações de pagamento
 
 ---
-
-## Contato
-
-Para oportunidades Full Stack, projetos sob encomenda ou parcerias:
-
-🌐 [Portfólio de serviços para empresas](https://www.abiliogama.dev/pt/)
-
-💼 [Portfólio profissional para vagas e equipes](https://www.portfolio.abiliogama.dev/pt/)
-
-🔗 [LinkedIn](https://www.linkedin.com/in/abilio-gama-neto-junior-467965286)
-
-✉️ [E-mail](mailto:abiliogamadev@gmail.com)
-
-💬 [Telegram](https://t.me/abiliogama)
