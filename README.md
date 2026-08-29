@@ -1,96 +1,109 @@
-## Prazer! Eu me chamo Abílio Gama
+# Abílio Gama — Desenvolvedor Full Stack
 
-Desenvolvedor **Full Stack** em Florianópolis, SC. Graduado em Análise e Desenvolvimento de Sistemas pelo UniSenai.
+Desenvolvedor Full Stack em Florianópolis, formado em Análise e Desenvolvimento de Sistemas pelo UniSenai. Desenvolvo sites e sistemas web para negócios locais, do levantamento de requisitos ao deploy.
 
-Desenvolvo e entrego **landing pages com SEO local** e **sistemas web** para PMEs — presença digital que o negócio usa de verdade: catálogo, conversão por WhatsApp, ranqueamento local e, quando o caso pede, autenticação, pagamentos e painel administrativo.
+Foco em Next.js, React, TypeScript, Node.js, PostgreSQL e Astro, com experiência em SEO técnico, autenticação e autorização, integrações de API, PWAs e testes automatizados.
 
-- 📍 Florianópolis, Santa Catarina
-- 🌐 [Portfólio](https://abiliogama-portfolio.netlify.app/)
-- 💼 [Codex Create](https://codex-create-landing-page-beige.vercel.app)
+[Portfólio](https://www.abiliogama.dev/) · [LinkedIn](https://www.linkedin.com/in/abilio-gama-neto-junior-467965286) · [E-mail](mailto:abiliogamadev@gmail.com) · [Telegram](https://t.me/abiliogama) · [Codex Create](https://codex-create-landing-page-beige.vercel.app)
 
 ---
 
-## O que eu construo
+## O que construo
 
-- Landing pages e sites institucionais com **SEO local** (JSON-LD, sitemap, páginas de serviço)
-- Catálogos digitais e conversão via **WhatsApp**
-- Aplicações full stack com **Next.js**, **React** e **TypeScript**
-- Painéis com **RBAC**, PostgreSQL e CI/CD
+- Sites institucionais e landing pages com SEO local, sitemap e dados estruturados em JSON-LD
+- Catálogos digitais e jornadas de conversão via WhatsApp
+- Sistemas web com autenticação, controle de acesso, banco de dados e integrações de pagamento
+- Painéis administrativos, PWAs e automações para operações de negócio
 
 ---
 
-## Projetos entregues a clientes
+## Projetos em produção
 
-Sites em produção para negócios reais em Florianópolis. Os repositórios são privados.
+Sites e sistemas entregues a clientes em Florianópolis. Os repositórios permanecem privados.
 
-### [ArtAço Sustentável](https://www.artacosustentavel.com.br/) — catálogo digital + conversão
-Site institucional e catálogo da marca de acessórios em aço inox. O cliente sai do marketplace e vende pelo próprio canal: catálogo gerenciado em CMS, carrinho persistente e pedido fechado no WhatsApp — sem gateway de pagamento.
+### ArtAço Sustentável — catálogo digital e conversão
+
+Site institucional e catálogo de acessórios em aço inox. A entrega permitiu que a marca concentrasse a venda no próprio canal, com produtos gerenciados por CMS, carrinho persistente e pedidos finalizados pelo WhatsApp.
 
 `Next.js 15` `React 19` `TypeScript` `Tailwind CSS` `Directus` `Zustand`
 
-[Ver site](https://www.artacosustentavel.com.br/)
+[Visitar projeto](https://www.artacosustentavel.com.br/)
 
-### [Nando Studio Barbearia](https://www.barbearianandostudio.com/) — SEO local e GEO
-One-page da barbearia no Rio Vermelho (Norte da Ilha). Serviços, equipe e localização, com agendamento pelo app e WhatsApp. Foi projetada para busca local e para IAs de busca (JSON-LD `HairSalon`, `areaServed`, sitemap e conteúdo específico do negócio).
+### Nando Studio Barbearia — presença local e agendamento
+
+Site da barbearia no Rio Vermelho, com serviços, equipe, localização e caminhos para agendamento. A estrutura inclui SEO local, sitemap e dados estruturados para mecanismos de busca e ferramentas de IA.
 
 `Next.js` `React` `TypeScript` `Tailwind CSS` `shadcn/ui` `Framer Motion`
 
-[Ver site](https://www.barbearianandostudio.com/)
+[Visitar projeto](https://www.barbearianandostudio.com/)
 
-### [Sabor Ilhéu](https://www.saborilheurestaurante.com.br/) — landing de restaurante
-Presença digital própria do restaurante de frutos do mar na Barra da Lagoa — o negócio dependia só de redes sociais e do Google Meu Negócio. Cardápio por categorias, galeria, avaliações reais, mapa e CTA de reserva no WhatsApp, com SEO local e SSG.
+### Sabor Ilhéu — site para restaurante
 
-`Next.js 16` `React 19` `TypeScript` `Tailwind CSS`
+Site próprio para o restaurante de frutos do mar na Barra da Lagoa, com cardápio por categorias, galeria, avaliações, mapa e reservas pelo WhatsApp. A entrega reduziu a dependência exclusiva de redes sociais e do perfil no Google.
 
-[Ver site](https://www.saborilheurestaurante.com.br/)
+`Next.js 16` `React 19` `TypeScript` `Tailwind CSS` `SSG`
 
-### [PatriciaH Back — Centro Estético](https://www.centroesteticopatriciaback.com.br/) — site + páginas de serviço
-Site institucional do centro estético e terapêutico no Rio Vermelho. Home one-page e **17 páginas estáticas de serviço**, cada uma com SEO próprio (JSON-LD `Service`, Open Graph). O único objetivo: apresentar a profissional e converter o agendamento no WhatsApp.
+[Visitar projeto](https://www.saborilheurestaurante.com.br/)
+
+### Centro Estético Patrícia Back — páginas de serviço e agendamento
+
+Site institucional com página inicial e 17 páginas estáticas de serviço. Cada serviço possui metadados próprios, Open Graph e dados estruturados, com agendamento direcionado ao WhatsApp.
 
 `Next.js 16` `React 19` `TypeScript` `Tailwind CSS` `shadcn/ui`
 
-[Ver site](https://www.centroesteticopatriciaback.com.br/)
+[Visitar projeto](https://www.centroesteticopatriciaback.com.br/)
 
 ---
 
-## Projetos de estudo
+## Projetos técnicos de portfólio
 
-Arquitetura completa para portfólio técnico — não são entregas de cliente.
+Projetos públicos que demonstram arquitetura, segurança, dados e qualidade de software. Não são entregas a clientes.
 
-### [Rei do Picadão](https://github.com/AbilioGamaNetoJ/restaurante-rei-picadao) — sistema de delivery
-Plataforma full stack com storefront, checkout seguro, painel administrativo com RBAC, PWA e pagamentos (PIX/cartão).
+### [Biblioteca — Tracker de Leitura](https://github.com/AbilioGamaNetoJ/sistema-biblioteca)
+
+PWA mobile-first para organizar leituras, acompanhar progresso, registrar metas e manter PDFs privados. Inclui autenticação, RLS, armazenamento de arquivos, busca pela Google Books API e publicação no Cloudflare Workers.
+
+`Next.js 16` `TypeScript` `Supabase` `PostgreSQL` `Cloudflare Workers` `PWA`
+
+[Ver repositório](https://github.com/AbilioGamaNetoJ/sistema-biblioteca)
+
+### [Rei do Picadão — sistema de delivery](https://github.com/AbilioGamaNetoJ/restaurante-rei-picadao)
+
+Plataforma full stack de delivery com storefront, checkout seguro, pagamentos por PIX e cartão, PWA e painel administrativo com RBAC. O projeto também cobre fluxos críticos com testes unitários e E2E.
 
 `Next.js 16` `React 19` `TypeScript` `PostgreSQL` `Clerk` `Asaas` `Vitest` `Playwright`
 
-[Repositório](https://github.com/AbilioGamaNetoJ/restaurante-rei-picadao) · [Demo](https://restaurante-rei-picadao.vercel.app)
+[Ver repositório](https://github.com/AbilioGamaNetoJ/restaurante-rei-picadao) · [Ver demonstração](https://restaurante-rei-picadao.vercel.app)
 
 ### [Dashboard Administrativo](https://github.com/AbilioGamaNetoJ/Dashboard-Administrativo)
-Gestão empresarial com funcionários, estoque, vendas, finanças e metas — autenticação e controle de acesso por perfil.
 
-`React 19` `Vite` `Tailwind` `Supabase` `PostgreSQL` `Vitest`
+Sistema de gestão de funcionários, estoque, vendas, finanças e metas. Implementa autenticação, RBAC, políticas RLS, triggers de banco de dados e testes automatizados.
 
-[Repositório](https://github.com/AbilioGamaNetoJ/Dashboard-Administrativo) · [Demo](https://dashboard-administrativo-six.vercel.app)
+`React 19` `Vite` `Tailwind CSS` `Supabase` `PostgreSQL` `Deno` `Vitest`
+
+[Ver repositório](https://github.com/AbilioGamaNetoJ/Dashboard-Administrativo) · [Ver demonstração](https://dashboard-administrativo-six.vercel.app)
+
+### [Prospector de Negócios Locais](https://github.com/AbilioGamaNetoJ/leads-webscrapping-maps)
+
+Ferramenta interna para prospecção de empresas por região e segmento, com identificação de negócios sem site, autenticação por perfis e exportação de resultados em XLSX. Integra Google Places e Geocoding APIs.
+
+`Python` `FastAPI` `SQLAlchemy` `PostgreSQL` `Neon` `Clerk` `PWA`
+
+[Ver repositório](https://github.com/AbilioGamaNetoJ/leads-webscrapping-maps)
 
 ---
 
-## Tech Stack
+## Tecnologias e práticas
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+- **Frontend:** TypeScript, JavaScript, React, Next.js, Astro e Tailwind CSS
+- **Backend e dados:** Node.js, Python, FastAPI, PostgreSQL, Supabase, Directus, Drizzle ORM e APIs REST
+- **Qualidade e entrega:** Vitest, Playwright, Git, CI/CD, Docker, Vercel, Cloudflare Workers e Bun
+- **Arquitetura aplicada:** autenticação, RBAC, RLS, PWAs, SEO técnico, JSON-LD e integrações de pagamento
 
 ---
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abilio-gama/)&nbsp;
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/abiliogama)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abiliogama-portfolio.netlify.app/)&nbsp;
+Para oportunidades Full Stack, projetos sob encomenda ou parcerias:
+
+[Portfólio](https://www.abiliogama.dev/) · [LinkedIn](https://www.linkedin.com/in/abilio-gama-neto-junior-467965286) · [E-mail](mailto:abiliogamadev@gmail.com) · [Telegram](https://t.me/abiliogama)
