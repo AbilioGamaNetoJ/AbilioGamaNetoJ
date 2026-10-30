@@ -1,16 +1,16 @@
-# Abílio Gama — Desenvolvedor Full Stack
+# Abílio Gama — Full Stack Developer
 
-Desenvolvedor Full Stack em Florianópolis, formado em Análise e Desenvolvimento de Sistemas pelo UniSenai. Desenvolvo sites e sistemas web para negócios locais, do levantamento de requisitos ao deploy.
+Full Stack developer in Florianópolis, with a degree in Systems Analysis and Development from UniSenai. I build websites and web systems for local businesses, from requirements gathering through deployment.
 
-Foco em Next.js, React, TypeScript, Node.js, PostgreSQL e Astro, com experiência em SEO técnico, autenticação e autorização, integrações de API, PWAs e testes automatizados.
+I focus on Next.js, React, TypeScript, Node.js, PostgreSQL, and Astro, with experience in technical SEO, authentication and authorization, API integrations, PWAs, and automated testing.
 
-🌐 [Portfólio de serviços para empresas](https://www.abiliogama.dev/pt/)
+🌐 [Service portfolio for businesses](https://www.abiliogama.dev/pt/)
 
-💼 [Portfólio profissional para vagas e equipes](https://www.portfolio.abiliogama.dev/pt/)
+💼 [Professional portfolio for jobs and teams](https://www.portfolio.abiliogama.dev/pt/)
 
-🔗 [LinkedIn](https://www.linkedin.com/in/abilio-gama/)
+🔗 [LinkedIn](https://www.linkedin.com/in/abilio-gama-neto-junior-467965286)
 
-✉️ [E-mail](mailto:abiliogamadev@gmail.com)
+✉️ [Email](mailto:abiliogamadev@gmail.com)
 
 💬 [Telegram](https://t.me/abiliogama)
 
@@ -18,90 +18,114 @@ Foco em Next.js, React, TypeScript, Node.js, PostgreSQL e Astro, com experiênci
 
 ---
 
-## O que construo
+## What I build
 
-- Sites institucionais e landing pages com SEO local, sitemap e dados estruturados em JSON-LD
-- Catálogos digitais e jornadas de conversão via WhatsApp
-- Sistemas web com autenticação, controle de acesso, banco de dados e integrações de pagamento
-- Painéis administrativos, PWAs e automações para operações de negócio
+- Institutional websites and landing pages with local SEO, sitemaps, and JSON-LD structured data
+- Digital catalogs and WhatsApp conversion journeys
+- Web systems with authentication, access control, databases, and payment integrations
+- Admin panels, PWAs, and automations for business operations
 
 ---
 
-## Projetos em produção
+## Production projects
 
-Sites e sistemas entregues a clientes em Florianópolis. Os repositórios permanecem privados.
+Websites and systems delivered to clients in Florianópolis. The repositories remain private.
 
-### ArtAço Sustentável — catálogo digital e conversão
+### ArtAço Sustentável — digital catalog and conversion
 
-Site institucional e catálogo de acessórios em aço inox. A entrega permitiu que a marca concentrasse a venda no próprio canal, com produtos gerenciados por CMS, carrinho persistente e pedidos finalizados pelo WhatsApp.
+Institutional website and catalog of stainless steel accessories. The delivery allowed the brand to concentrate sales on its own channel, with products managed through a CMS, a persistent cart, and orders completed via WhatsApp.
 
 `Next.js 15` `React 19` `TypeScript` `Tailwind CSS` `Directus` `Zustand`
 
-🌐 [Visitar projeto](https://www.artacosustentavel.com.br/)
+🌐 [Visit project](https://www.artacosustentavel.com.br/)
 
-### Nando Studio Barbearia — presença local e agendamento
+### Nando Studio Barbearia — local presence and booking
 
-Site da barbearia no Rio Vermelho, com serviços, equipe, localização e caminhos para agendamento. A estrutura inclui SEO local, sitemap e dados estruturados para mecanismos de busca e ferramentas de IA.
+Website for the barbershop in Rio Vermelho, with services, team, location, and paths to booking. The structure includes local SEO, a sitemap, and structured data for search engines and AI tools.
 
 `Next.js` `React` `TypeScript` `Tailwind CSS` `shadcn/ui` `Framer Motion`
 
-🌐 [Visitar projeto](https://www.barbearianandostudio.com.br/)
+🌐 [Visit project](https://www.barbearianandostudio.com/)
 
-### Sabor Ilhéu — site para restaurante
+### Sabor Ilhéu — restaurant website
 
-Site próprio para o restaurante de frutos do mar na Barra da Lagoa, com cardápio por categorias, galeria, avaliações, mapa e reservas pelo WhatsApp. A entrega reduziu a dependência exclusiva de redes sociais e do perfil no Google.
+Dedicated website for the seafood restaurant in Barra da Lagoa, with a menu by category, gallery, reviews, map, and reservations via WhatsApp. The delivery reduced exclusive dependence on social networks and the Google profile.
 
 `Next.js 16` `React 19` `TypeScript` `Tailwind CSS` `SSG`
 
-🌐 [Visitar projeto](https://www.saborilheurestaurante.com.br/)
+🌐 [Visit project](https://www.saborilheurestaurante.com.br/)
 
-### Centro Estético Patrícia Back — páginas de serviço e agendamento
+### Centro Estético Patrícia Back — service pages and booking
 
-Site institucional com página inicial e 17 páginas estáticas de serviço. Cada serviço possui metadados próprios, Open Graph e dados estruturados, com agendamento direcionado ao WhatsApp.
+Institutional website with a homepage and 17 static service pages. Each service has its own metadata, Open Graph, and structured data, with booking directed to WhatsApp.
 
 `Next.js 16` `React 19` `TypeScript` `Tailwind CSS` `shadcn/ui`
 
-🌐 [Visitar projeto](https://www.centroesteticopatriciaback.com.br/)
+🌐 [Visit project](https://www.centroesteticopatriciaback.com.br/)
 
 ---
 
-## Projetos técnicos de portfólio
+## Technical portfolio projects
 
-Projetos públicos que demonstram arquitetura, segurança, dados e qualidade de software. Não são entregas a clientes.
+Public projects that demonstrate architecture, security, data, and software quality. They are not client deliveries.
 
-### [Biblioteca — Tracker de Leitura](https://github.com/AbilioGamaNetoJ/sistema-biblioteca)
+### [Biblioteca — Reading Tracker](https://github.com/AbilioGamaNetoJ/sistema-biblioteca)
 
-PWA mobile-first para organizar leituras, acompanhar progresso, registrar metas e manter PDFs privados. Inclui autenticação, RLS, armazenamento de arquivos, busca pela Google Books API e publicação no Cloudflare Workers.
+Mobile-first PWA for organizing reading, tracking progress, setting goals, and keeping PDFs private. It includes authentication, RLS, file storage, search through the Google Books API, and deployment on Cloudflare Workers.
 
 `Next.js 16` `TypeScript` `Supabase` `PostgreSQL` `Cloudflare Workers` `PWA`
 
-💻 [Ver repositório](https://github.com/AbilioGamaNetoJ/sistema-biblioteca)
+💻 [View repository](https://github.com/AbilioGamaNetoJ/sistema-biblioteca)
 
-### [Rei do Picadão — sistema de delivery](https://github.com/AbilioGamaNetoJ/restaurante-rei-picadao)
+### [Rei do Picadão — delivery system](https://github.com/AbilioGamaNetoJ/restaurante-rei-picadao)
 
-Plataforma full stack de delivery com storefront, checkout seguro, pagamentos por PIX e cartão, PWA e painel administrativo com RBAC. O projeto também cobre fluxos críticos com testes unitários e E2E.
+Full-stack delivery platform with a storefront, secure checkout, PIX and card payments, a PWA, and an admin panel with RBAC. The project also covers critical flows with unit and E2E tests.
 
 `Next.js 16` `React 19` `TypeScript` `PostgreSQL` `Clerk` `Asaas` `Vitest` `Playwright`
 
-💻 [Ver repositório](https://github.com/AbilioGamaNetoJ/restaurante-rei-picadao)
+💻 [View repository](https://github.com/AbilioGamaNetoJ/restaurante-rei-picadao)
 
-🚀 [Ver demonstração](https://restaurante-rei-picadao.vercel.app)
+🚀 [View demo](https://restaurante-rei-picadao.vercel.app)
 
-### [Dashboard Administrativo](https://github.com/AbilioGamaNetoJ/Dashboard-Administrativo)
+### [Admin Dashboard](https://github.com/AbilioGamaNetoJ/Dashboard-Administrativo)
 
-Sistema de gestão de funcionários, estoque, vendas, finanças e metas. Implementa autenticação, RBAC, políticas RLS, triggers de banco de dados e testes automatizados.
+Management system for employees, inventory, sales, finances, and goals. It implements authentication, RBAC, RLS policies, database triggers, and automated tests.
 
 `React 19` `Vite` `Tailwind CSS` `Supabase` `PostgreSQL` `Deno` `Vitest`
 
-💻 [Ver repositório](https://github.com/AbilioGamaNetoJ/Dashboard-Administrativo)
+💻 [View repository](https://github.com/AbilioGamaNetoJ/Dashboard-Administrativo)
 
-🚀 [Ver demonstração](https://dashboard-administrativo-six.vercel.app)
+🚀 [View demo](https://dashboard-administrativo-six.vercel.app)
+
+### [Local Business Prospector](https://github.com/AbilioGamaNetoJ/leads-webscrapping-maps)
+
+Internal tool for prospecting companies by region and segment, identifying businesses without a website, with profile-based authentication and XLSX export of results. It integrates the Google Places and Geocoding APIs.
+
+`Python` `FastAPI` `SQLAlchemy` `PostgreSQL` `Neon` `Clerk` `PWA`
+
+💻 [View repository](https://github.com/AbilioGamaNetoJ/leads-webscrapping-maps)
 
 ---
 
-## Tecnologias e práticas
+## Technologies and practices
 
-- **Frontend:** TypeScript, JavaScript, React, Next.js, Astro e Tailwind CSS
-- **Backend e dados:** Node.js, Python, FastAPI, PostgreSQL, Supabase, Directus, Drizzle ORM e APIs REST
-- **Qualidade e entrega:** Vitest, Playwright, Git, CI/CD, Docker, Vercel, Cloudflare Workers e Bun
-- **Arquitetura aplicada:** autenticação, RBAC, RLS, PWAs, SEO técnico, JSON-LD e integrações de pagamento
+- **Frontend:** TypeScript, JavaScript, React, Next.js, Astro, and Tailwind CSS
+- **Backend and data:** Node.js, Python, FastAPI, PostgreSQL, Supabase, Directus, Drizzle ORM, and REST APIs
+- **Quality and delivery:** Vitest, Playwright, Git, CI/CD, Docker, Vercel, Cloudflare Workers, and Bun
+- **Applied architecture:** authentication, RBAC, RLS, PWAs, technical SEO, JSON-LD, and payment integrations
+
+---
+
+## Contact
+
+For Full Stack opportunities, custom projects, or partnerships:
+
+🌐 [Service portfolio for businesses](https://www.abiliogama.dev/pt/)
+
+💼 [Professional portfolio for jobs and teams](https://www.portfolio.abiliogama.dev/pt/)
+
+🔗 [LinkedIn](https://www.linkedin.com/in/abilio-gama-neto-junior-467965286)
+
+✉️ [Email](mailto:abiliogamadev@gmail.com)
+
+💬 [Telegram](https://t.me/abiliogama)
